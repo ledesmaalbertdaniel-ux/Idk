@@ -1,4 +1,4 @@
-const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know, I still think about you sometimes.\n\nWe both tried. We both cared. But the universe just never gave us enough space to become “us.”\n\nI just wonder… if we had met at a different point in life, would the ending have been different?\n\nAnyway, I hope you're doing okay, even though we’re not in each other’s lives anymore.`;
+const message = `I  don't if you'll ever read this but i hope you do.\n I just want to talk to you even for the last time na.\n\nThere's a lot of things i want to ask and a lot of things nga gusto iexplain i hope you don't get the wrong idea kay feel ko kaya ko man tanggapon break up naton pero du kakalain lang nga du gin baylo takon(hindi lang man ako naka notice pati man mga cm ko).\n\nI'm not here to fight i guess i just need answers. I spend a lot of time to make this so i hope you give a chance to speak.\n\nHoping for your kind consideration.`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
